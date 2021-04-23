@@ -1,0 +1,9 @@
+.horizontal {
+    display: flex;
+    justify-items: center;
+    margin-bottom: 20px;
+}
+
+.image {
+    padding-right: 15px;
+}
